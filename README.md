@@ -73,7 +73,7 @@ A simple **Tkinter GUI** is provided to launch gesture detection.
 
 
 ## Reports
-- [Project Report (PDF)](docs/Gesture-based input system.pdf)
+- [Project Report (PDF)](docs/Gesture_based_input_system.pdf)
 
 ---
 
